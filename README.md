@@ -1,6 +1,6 @@
 ### Hi there, I'm Caspar👋
 
-I am 18 years old and currently learning how to code at [neuefische GmbH](https://www.neuefische.de)
+I am 18 years old and currently learning how to code at the [neuefische coding bootcamp](https://www.neuefische.de)
 
 [![CasparVelsen's github stats](https://github-readme-stats.vercel.app/api?username=CasparVelsen)](https://github.com/anuraghazra/github-readme-stats)
 
