@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Caspar👋
+
+I am 18 years old and currently learning how to code at neuefische GmbH
+
+[![CasparVelsen's github stats](https://github-readme-stats.vercel.app/api?username=CasparVelsen)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **CasparVelsen/CasparVelsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
