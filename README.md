@@ -2,6 +2,9 @@
 
 I am 18 years old and currently learning how to code at the [neuefische coding bootcamp](https://www.neuefische.de)
 
+- 🥳 I am very interested in CSS and JavaScript
+- 🔎 I can't wait to explore the world of coding and to become a web developer
+
 [![CasparVelsen's github stats](https://github-readme-stats.vercel.app/api?username=CasparVelsen)](https://github.com/anuraghazra/github-readme-stats)
 
 
